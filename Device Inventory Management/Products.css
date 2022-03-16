@@ -1,0 +1,122 @@
+body{
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+ background-blend-mode: multiply,multiply;
+
+}
+.heading1{
+    font-size: 50px;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+.heading2, .heading3{
+    width: 70%;
+    margin-top: 3%;
+    border-radius: 20px;
+    margin-left: 15%;
+    text-align: center;
+    text-align: center;
+    height: 50px;
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+.b3{
+    display: inline;
+    margin-top: 1%;
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 30px;
+    align-content: center;
+    margin-right: 1%;
+    border: 2px solid black;
+    background-color: transparent;
+}
+a{
+    text-decoration: none;
+}
+.nav{
+    text-align: center;
+    align-content: center;
+    width: 99%;
+    padding: 10px;
+    height: 90px;
+    margin-top: -1%;
+    border-radius: 10px;
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+.img1{
+    width:30px;
+    max-width: inherit;
+    margin-left: 45%;
+}
+.img2{
+     width:50px;
+    max-width: inherit;
+    margin-left: 90%;
+    margin-top: -3.5%;
+}
+.first{
+    border-radius: 20px;
+    width: 90%;
+    margin-left: 5%;
+  height: 350px;
+    margin-top: 2%;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+.first img{
+    width: 300px;
+    padding: 10px;
+    margin-left: 5%;
+    border-radius: 20px;
+}
+.h41{
+    text-align: center;
+    margin-left: 30%;
+    height: 270px;
+    margin-top: -23%;
+    color: red;
+    font-size: 25px;
+    padding: 20px;
+    width: 60%;
+}
+.h41p{
+    margin-left: 45%;
+    margin-top: -17%;
+    color: black;
+    width:30%;
+    height: 190px;
+    padding: 10px;
+}
+.footer{
+    padding: 10px;
+    margin-left: 5%;
+    text-align: center;
+}
+.social1{
+   width:50px; 
+    border-radius: 10px;
+    padding: 10px;
+}
+.social2{
+    border-radius: 10px;
+    width:50px;
+    padding: 10px;
+}
+.social3{
+    border-radius: 10px;
+    padding: 10px;
+    width:50px;
+}
+.social4{
+    border-radius: 10px;
+    width:50px;
+    padding: 10px;
+}
+.social5{
+    border-radius: 20px;
+    padding: 10px;
+    width:50px;
+}
