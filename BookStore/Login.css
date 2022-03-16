@@ -1,0 +1,125 @@
+body{
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+.navbar-expand-sm{
+border-radius: 20px;
+margin-top: 0.5%;
+margin-left: 0.5%;
+margin-right: 0.5%;
+background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+ background-blend-mode: multiply,multiply;
+color: white;
+}  
+.navbar-nav .nav-item{
+    position: center;
+    padding: 20px;
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.display-4{
+    font-size: 40px;
+    margin-left: 1%;
+    background-image: linear-gradient(to top, #bdc2e8 0%, #bdc2e8 1%, #e6dee9 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.form-group{
+    border-radius: 20px;
+    margin-left: 1%;
+    width: 48%;
+    height: 300px;
+    padding: 10px;
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+    border: 5px solid black;
+    margin-top: 2%;
+    align-content: center;
+    text-align: center;
+}
+.form-group label{
+    font-weight: bold;
+    margin-top: 5%;
+}
+.form-group input{
+    background-color: transparent;
+    margin-left: 2%;
+    border-radius: 10px;
+}
+.form-group button{
+    margin-top: 10%;
+    border-radius: 20px;
+    padding: 8px;
+    margin-right: 2%;
+    background-color: transparent;
+}
+.container-fluid{
+    border-radius: 20px;
+    border: 5px solid black;
+    width: 48%;
+    margin-left: 51%;
+    margin-top: -20%;
+    height: 290px;
+    
+}
+.display-3{
+   font-size:50px; 
+}
+.img2{
+margin-top: 2%;
+ width: 80px; 
+margin-left: 25%;
+}
+.img3{
+    margin-top: 2%;
+    margin-left: 2%;
+   width: 70px; 
+}
+.img4{
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 68px;
+}
+.img5{
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 70px;
+}
+.footer{
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+ background-blend-mode: multiply,multiply;
+    width: 98%;
+    height: 210px;
+    border-radius: 20px;
+    margin-top: 5%;
+    margin-left: 0.8%;
+    margin-right: 0.5%;
+    color: white;
+}
+.header8{
+   font-size: 30px;
+    text-align: center;
+}
+.parafooter{
+   font-size: 25px; 
+}
+.img7{
+    margin-left: 40%;
+    margin-top: -4%;
+    width: 60px;
+}
+.img8{
+    margin-left: 1%;
+    margin-top: -4%;
+    width: 60px;
+}
+.img9{
+    margin-left: 1%;
+    margin-top: -4%;
+    width: 60px;
+}
+.img10{
+    margin-left: 1%;
+    margin-top: -4%;
+    width: 60px;
+}
